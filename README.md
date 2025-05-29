@@ -30,7 +30,7 @@ Sou uma **programadora web fullstack** com um foco especial no **backend**. Ador
 
 ### Contribuições Recentes 📊
 
-[![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizRocha&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizRocha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
