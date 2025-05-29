@@ -11,7 +11,7 @@ Sou uma **programadora web fullstack** com um foco especial no **backend**. Ador
 * **Mensageria:** SQS, RabbitMQ
 * **Ferramentas e Tecnologias:** Docker, AWS Lambda, Git, RESTful APIs, GraphQL, Jira, Trello, Scrum, Shape Up, Selenium
 * **Familiaridade Frontend:** React, Angular, Next.js, React Native, HTML5, CSS3, JavaScript
-* 
+
 ---
 
 ### Onde me encontrar 🌐
