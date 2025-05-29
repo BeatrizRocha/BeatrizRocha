@@ -6,11 +6,12 @@ Sou uma **programadora web fullstack** com um foco especial no **backend**. Ador
 
 ### Minhas Habilidades 🛠️
 
-* **Linguagens Backend:** Node.js, Ruby
-* **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
-* **Ferramentas e Tecnologias:** Docker, AWS Lambda, Git, RESTful APIs, GraphQL, SQS, RabbitMq 
-* **Familiaridade Frontend:** React, Angular, HTML5, CSS3, JavaScript 
-
+* **Linguagens Backend:** Golang, Node.js, Ruby, TypeScript
+* **Bancos de Dados:** PostgreSQL, MongoDB, MySQL, Microsoft SQL Server
+* **Mensageria:** SQS, RabbitMQ
+* **Ferramentas e Tecnologias:** Docker, AWS Lambda, Git, RESTful APIs, GraphQL, Jira, Trello, Scrum, Shape Up, Selenium
+* **Familiaridade Frontend:** React, Angular, Next.js, React Native, HTML5, CSS3, JavaScript
+* 
 ---
 
 ### Onde me encontrar 🌐
