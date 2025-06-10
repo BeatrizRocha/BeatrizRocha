@@ -23,10 +23,10 @@ Sou uma **programadora web fullstack** com um foco especial no **backend**. Ador
 
 ### Meus Projetos Destaque 🌟
 
-* **[streaming-catalog]**: Catálogo de Filmes e Séries.  projeto pessoal de estudo e portfólio. O objetivo é criar um sistema que permita ao usuário centralizar, organizar e gerenciar sua experiência com filmes e séries, além de fornecer sugestões personalizadas.
-    * [Link para o repositório](https://github.com/BeatrizRocha/streaming-catalog)
-* **[ruby-exercises]**: Coleção de exercícios e implementações em Ruby, incluindo exemplos práticos, testes automatizados e documentação detalhada.
-    * [Link para o repositório](https://github.com/BeatrizRocha/ruby-exercises)
+* Catálogo de Filmes e Séries.  projeto pessoal de estudo e portfólio. O objetivo é criar um sistema que permita ao usuário centralizar, organizar e gerenciar sua experiência com filmes e séries, além de fornecer sugestões personalizadas.
+    * [streaming-catalog](https://github.com/BeatrizRocha/streaming-catalog)
+* Coleção de exercícios e implementações em Ruby, incluindo exemplos práticos, testes automatizados e documentação detalhada.
+    * [ruby-exercises](https://github.com/BeatrizRocha/ruby-exercises)
 
 ---
 
